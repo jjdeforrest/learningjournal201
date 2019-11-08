@@ -8,3 +8,7 @@ Both are completley neccassary in balance to progress. You have to have the desi
 
 #jouranl 03
 Learned to push and pull and learned a lot about forking. Also on how to share the workload.
+
+# Journal 04-05
+
+Leanred about functions over all especially loops and seeding functions inside loops. Also on how to sync, push and pull to branches in github to syou can work with many different people in big projects.
